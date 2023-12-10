@@ -7,4 +7,9 @@ GraphQL, geliştiricilerin API'lerden veri almak için kullandığı çağdaş b
 # Önizleme
 ![image](https://github.com/5210505058/OON_buttons/assets/127990796/83465287-1617-4e49-b3c8-1c7909e51b33)
 
+# Yapan
+Arda Işık
+5210505058
+
+
 
