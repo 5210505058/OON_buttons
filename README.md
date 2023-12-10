@@ -1,0 +1,2 @@
+# OON_buttons
+Bu kod, kullanıcılar tarafından etkinleştirilebilen ve devre dışı bırakılabilen etkileşimli düğmelerin bulunduğu 4x4 bir ızgara oluşturur. Bir düğmeye tıklamak durumunu değiştirir ve bu durumla ilgili bilgileri, ek işlevselliğe yönelik olası bir GraphQL şema bağlantısı dahil olmak üzere yazdırır. Bu basit arayüz, seçenekleri belirleme, özellikleri etkinleştirme veya bağlı sistemleri kontrol etme gibi çeşitli amaçlar için kullanılabilir
