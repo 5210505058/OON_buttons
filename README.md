@@ -4,4 +4,7 @@ Bu kod, kullanıcılar tarafından etkinleştirilebilen ve devre dışı bırak�
 # GraphQL
 GraphQL, geliştiricilerin API'lerden veri almak için kullandığı çağdaş bir sorgu dilidir. Veri isteklerine izin vermesi sayesinde ağ trafiğini azaltmaya ve performansı artırmaya yardımcı olur. Açık kaynak olması, karmaşık web uygulamaları inşa etmek isteyen geliştiriciler arasında popülerlik kazanmıştır. REST'e kıyasla GraphQL, daha fazla veri odaklı bir yaklaşım benimser ve tüm gerekli veriyi tek bir istekte almayı mümkün kılar.
 
+# Önizleme
+![image](https://github.com/5210505058/OON_buttons/assets/127990796/83465287-1617-4e49-b3c8-1c7909e51b33)
+
 
